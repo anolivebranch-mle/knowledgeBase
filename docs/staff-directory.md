@@ -169,7 +169,7 @@ They are also in charge of aiding franchises / players on game days, and act as 
     - Nim (@nim.x)
     - Kend0 (@kend0slice)
 
-### League Operations
+### Competitive Integrity
 
 - **Competitive Integrity Coordinator:** Flump (@flumpski)
 - **Competitive Integrity Coordinator:** Manatee (@manatee)
@@ -182,6 +182,9 @@ They are also in charge of aiding franchises / players on game days, and act as 
     - QubeKnight (@qubeknight)
     - Darkk (@_darkk_)
     - Rolo (@rolojohnson)
+
+### NCPs
+
 - **NCPs Coordinator:** Pas818 (@pas818)
 - **NCPs Team Lead:** Vacant
 - **NCPs Team:**
@@ -189,6 +192,9 @@ They are also in charge of aiding franchises / players on game days, and act as 
     - Kurrazo (@kurrazo)
     - Yz (@yz220)
     - Vacant
+
+### Processing
+
 - **Processing Coordinator:** Vacant
 - **Processing Team Lead:** Vacant
 - **Processing Team:**
@@ -198,6 +204,9 @@ They are also in charge of aiding franchises / players on game days, and act as 
     - T E X (@texascyclone)
     - BigQ (@biggq)
     - Aydxn (@aydxn_0907)
+
+### Waivers
+
 - **Waivers Coordinator:** AndyMcMuffin (@andymcmuffin)
 - **Waivers Team Lead:** Onyx (@onyx076)
 - **Waivers Team:**
@@ -264,7 +273,7 @@ Marketing is responsible for external communications, including advertising, soc
 
 For open opportunities to get involved with the Marketing, see ⁠marketing-forms.
 
-#### Leadership
+### Leadership
 
 - **Head of Marketing:** han1ckz (@han1ckz)
 - **Marketing Director:** xskyguy17x (@xskyguy17x)
@@ -278,7 +287,7 @@ For open opportunities to get involved with the Marketing, see ⁠marketing-form
     - xsnipz21x (@xsnipz21x)
 - **Media Marketing Coordinator:** flappecino (@flappecino)
 
-#### Social Media
+### Social Media
 - **Social Media Team Lead:** flappecino (@flappecino)
 - **Social Media Team:**
     - starb0yd (@starb0yd) — Caption Writer
@@ -286,26 +295,26 @@ For open opportunities to get involved with the Marketing, see ⁠marketing-form
     - bgriiff (@bgriiff) — Trend Watcher
     - xsnipz21x (@xsnipz21x) — TikTok
 
-#### Video Editing
+### Video Editing
 - **Video Editing Team:**
     - zracii (@zracii) — Editor
     - erehereh (@erehereh) — Editor
 
-#### Sponsorship
+### Sponsorship
 - **Sponsorship Team Lead:** *Vacant*
 - **Sponsorship Team:**
     - pander_rl (@pander_rl) — Sponsorship Agent
     - Coley (@coley) — Pitch Deck Assistant
     - yz220 (@yz220) — Sponsor Researcher
 
-#### Merchandising
+### Merchandising
 - **Merch Team Lead:** tunloink (@tunloink)
 - **Merch Team:**
     - leighanicole_ (@leighanicole_) — Mockup Designer
     - *Vacant* — Mockup Designer
     - *Vacant* — Store Assistant
 
-#### Web & Digital
+### Web & Digital
 - **Website Dev Coordinator:** mallowsc (@mallowsc) *(Development Dept)*
 - **Website Content Team Lead:** *Vacant*
 - **Web Content Team:**
