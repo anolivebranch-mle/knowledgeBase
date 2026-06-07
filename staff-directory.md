@@ -4,6 +4,16 @@ This page is intended to be the single source of truth for MLE staff members. Wh
 
 ## Board
 
+- **Owner:** TheGamingBear (@thegamingbear)
+- **Admin Advisor:** TyTy (@tyty)
+- **Board Members:**
+    - AnOliveBranch (@anolivebranch)
+    - delta (@delta727)
+    - Han1ckz (@han1ckz)
+    - Leachy (@leachy)
+    - pandy (@flashpandy)
+    - Nigel Thornbrake (@nigelthornbrake)
+
 ## Directors
 
 ## Community
