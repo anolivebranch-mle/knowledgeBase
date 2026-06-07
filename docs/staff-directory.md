@@ -9,7 +9,7 @@ This page is intended to be the single source of truth for MLE staff members. Wh
 The Board is responsible for all high-level planning, decision making, and the direction of Minor League Esports as a whole.
 
 Members of the Board are in charge of inter-organizational relations, as well as overseeing the direction of Minor League Esports' various departments.
-Members of the Board are in charge of final decision making, as well as guiding the driving objectives of the organization.
+Members of the Board are in charge of final decision making, as well as guiding the driving objectives of the organization. Board members are often (but not always) department heads.
 
 The organization as a whole is owned by TheGamingBear.
 
@@ -20,8 +20,8 @@ The organization as a whole is owned by TheGamingBear.
     - delta (@delta727)
     - Han1ckz (@han1ckz)
     - Leachy (@leachy)
-    - pandy (@flashpandy)
     - Nigel Thornbrake (@nigelthornbrake)
+    - pandy (@flashpandy)
 
 ## Directors
 
@@ -29,6 +29,13 @@ The organization as a whole is owned by TheGamingBear.
 
 Directors are responsible for high-level planning, decision making, and direction of their department within Minor League Esports.
 Directors oversee specific portfolios, guiding Coordinators in running their teams.
+
+- **Community Director:** thepiggybuggy (@thepiggybuggy)
+- **Development Director:** OwnerOfTheWhiteSedan (@ownerofthewhitesedan)
+- **League Operations (RL) Director:** Lack (@lackkkk)
+- **League Operations (TM) Director:** Ant (@anthill)
+- **Marketing Director:** SkyGuy (@xskyguy17x)
+- **Production Director:** Half Past White (@halfpastwhite)
 
 ## Community
 
