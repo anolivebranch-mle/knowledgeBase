@@ -8,10 +8,17 @@ theme:
     primary: yellow
 nav:
   - Home: index.md
+  - Staff Directory: staff-directory.md
   - Departments:
     - Rocket League Operations: departments/rocket-league-operations.md
     - Trackmania Operations: departments/trackmania-operations.md
-    - Community: departments/community.md
+    - Community: 
+      - Overview: departments/community/community.md
+      - Departments:
+        - Admissions: departments/community/admissions/admissions.md
+        - Events: departments/community/events/events.md
+        - Moderation: departments/community/moderation/moderation.md
+        - User Experience: departments/community/user-experience/user-experience.md
     - Development:
       - Overview: departments/development/development.md
       - New Team Members: departments/development/new-team-members.md
