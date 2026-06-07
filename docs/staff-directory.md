@@ -140,23 +140,32 @@ For opportunities to get involved with TM League Operations, head to the Trackma
 - **Trackmania Director:** Ant (@anthill)
 - **Trackmania Coordinators:**
     - **League Play:** okboomer (@okboomer0998)
-    - **Competitive Integrity Committee:** uwuMLEnjoyer (@wyntahfox)
+    - **Competitive Integrity:** uwuMLEnjoyer (@wyntahfox)
     - **Waivers:** *Vacant*
     - **NCPs:** *Vacant*
     - **Processing:** *Vacant*
     
-- **League Play**:
-    - *TBD*
-- **Waivers:** 
-    - *TBD*
-- **NCPs:** 
-    - *TBD*
-- **Processing:** 
-    - ElCuchinero Cuh (@elcuchinero)
-- **Competitive Integrity Committee:**
-    - **Team Lead:** 16BitZak (@16bitzak)
-    - NLBS (@nlbs) 
-    - Darkk (@darkk)
+### League Play
+
+- *TBD*
+
+### Competitive Integrity
+
+- **Team Lead:** 16BitZak (@16bitzak)
+- NLBS (@nlbs) 
+- Darkk (@darkk)
+
+### Waivers
+
+- *TBD*
+
+### NCPs
+
+- *TBD*
+
+### Processing
+
+- ElCuchinero Cuh (@elcuchinero)
 
 ## Marketing
 
@@ -184,30 +193,33 @@ The MLE Hall of Fame recognizes individuals whose lasting contributions and exem
 
 Legacy members of the Hall of Fame were inducted prior to the revival of the Hall in July 2025. The MLE Hall of Fame now operates by inducting a few new members per season, except for the initial larger Season 18 class.
 
-- **Legacy:**
-    - Azulite
-    - Hanz0_hattori
-    - Hunter
-    - InanimateJ
-    - MbizzleBruh
-    - Rick
-    - TastyChick3n
-- **Season 18:**
-    - Adi
-    - Blackwatch
-    - Deejay
-    - furphy
-    - Kend0.
-    - Kunics
-    - Mateo
-    - MikeIsMyIke
-    - Phi Sig
-    - R E D
-    - Reverse Fridge
-    - Riz
-    - rolo
-    - Stovvadz
-    - Taelo
-    - Water
-    - Wray
-    - Zyta
+### Legacy
+
+- Azulite
+- Hanz0_hattori
+- Hunter
+- InanimateJ
+- MbizzleBruh
+- Rick
+- TastyChick3n
+
+### Season 18
+
+- Adi
+- Blackwatch
+- Deejay
+- furphy
+- Kend0.
+- Kunics
+- Mateo
+- MikeIsMyIke
+- Phi Sig
+- R E D
+- Reverse Fridge
+- Riz
+- rolo
+- Stovvadz
+- Taelo
+- Water
+- Wray
+- Zyta
