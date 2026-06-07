@@ -143,6 +143,11 @@ Data Science & Statistics: Our dedicated team of data scientists and statisticia
 
 Our department is dedicated to leveraging technology to create the best possible experience for everyone involved in Minor League Esports. To that end, we are always open to members looking for an opportunity to develop and grow their technology skills within our ranks. To learn more, reach out to @MLE Staff Mailbox and let us know you're interested!
 
+### Leadership
+
+- **Head of Development:** Nigel Thornbrake (@nigelthornbrake)
+- **Development Director:** OwnerOfTheWhiteSedan (@ownerofthewhitesedan)
+
 ## League Operations (RL)
 
 ![LO Banner](img/directory/League%20Operations.png)
@@ -162,7 +167,6 @@ They are also in charge of aiding franchises / players on game days, and act as 
     - **NCPs:** Pas818 (@pas818)
     - **Processing:** Vacant
     - **Waivers:** AndyMcMuffin (@andymcmuffin)
-
 - **RL Operations Advisors:**
     - Adi (@asapre)
     - Achilles (@_achilles__)
