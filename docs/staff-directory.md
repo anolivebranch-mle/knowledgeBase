@@ -59,6 +59,23 @@ Teams under Community include Moderation, Admissions, Events, and User Experienc
 
 ### Admissions
 
+- **Community Coordinator - Admissions (RL):** xSnipz21x (@xsnipz21x)
+- **Community Coordinator - Admissions (TM):** Yz (@yz220)
+- **Admissions Team Lead:** ElCuchinero Cuh (@elcuchinero)
+- **Admissions Team (RL):**
+    - Ant (@anthill)
+    - Eth (@ethu_)
+    - Guardsmen (@guardsmen_.)
+    - HiChew (@hichew.rl)
+    - jgarrett770 (@jgarrett779)
+    - MapleSyrup (@maplesyrup.__.)
+- **Admissions Team (TM):**
+    - 16BitZak (@zackthewarrior)
+    - Ant (@anthill)
+    - malia (@rrecoil00)
+    - okboomer (@okboomer0998)
+    - Yukigeshiki (@yukigeshikijp)
+
 ### Events
 
 ### Moderation
@@ -144,3 +161,31 @@ For open opportunities to get involved with Production, see ⁠production-forms.
 The MLE Hall of Fame recognizes individuals whose lasting contributions and exemplary presence have shaped the culture and success of Minor League Esports. Inductees are distinguished not solely by tenure or title, but by the strength of their character, leadership, and the enduring respect they've earned throughout the community. 
 
 Legacy members of the Hall of Fame were inducted prior to the revival of the Hall in July 2025. The MLE Hall of Fame now operates by inducting a few new members per season, except for the initial larger Season 18 class.
+
+- **Legacy:**
+    - Azulite
+    - Hanz0_hattori
+    - Hunter
+    - InanimateJ
+    - MbizzleBruh
+    - Rick
+    - TastyChick3n
+- **Season 18:**
+    - Adi
+    - Blackwatch
+    - Deejay
+    - furphy
+    - Kend0.
+    - Kunics
+    - Mateo
+    - MikeIsMyIke
+    - Phi Sig
+    - R E D
+    - Reverse Fridge
+    - Riz
+    - rolo
+    - Stovvadz
+    - Taelo
+    - Water
+    - Wray
+    - Zyta
