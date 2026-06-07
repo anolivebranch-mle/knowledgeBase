@@ -1,6 +1,6 @@
-site_name: Knowledge Base
-repo_url: https://github.com/minor-league-esports/knowledgeBase
-site_url: https://minor-league-esports.github.io/knowledgeBase/
+site_name: Knowledge Base - AnOliveBranch
+repo_url: https://github.com/anolivebranch-mle/knowledgeBase
+site_url: https://anolivebranch-mle.github.io/knowledgeBase/
 theme:
   name: material
   palette:
