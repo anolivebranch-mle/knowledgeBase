@@ -84,6 +84,20 @@ Teams under Community include Moderation, Admissions, Events, and User Experienc
 
 ### Events
 
+#### Rocket League
+
+- **RL Events Coordinator:** xenn (@xenn._.)
+- **RL Events Team Lead:**
+- **RL Events Team:**
+    - *TBD*
+
+#### Trackmania
+
+- **TM Events Coordinator:** JonCornDog (@joncorndog)
+- **TM Events Team Lead:**
+- **TM Events Team:**
+    - *TBD*
+
 ### Moderation
 
 - **Moderation Coordinator:** Pieman_RL (@pieman_rl)
@@ -102,6 +116,10 @@ Teams under Community include Moderation, Admissions, Events, and User Experienc
     - Xenn (@xenn._.)
 
 ### User Experience
+
+- **User Experience Coordinator:** *Vacant*
+- **User Experience Team:**
+    - *Vacant*
 
 ## Development
 
