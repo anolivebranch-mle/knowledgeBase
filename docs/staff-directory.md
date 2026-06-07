@@ -111,7 +111,6 @@ Teams under Community include Moderation, Admissions, Events, and User Experienc
     - Dandaman (@_dandaman)
     - Fools (@drfools)
     - Manatee (@manatee)
-    - MapleSyrup (@maplesyrup.__.)
     - Prosperity2K (@prosperity2k)
     - Shag (@shagoliath)
     - Water (@water_rl)
@@ -155,7 +154,55 @@ They are also in charge of aiding franchises / players on game days, and act as 
 ### Leadership
 
 - **Head of RL Operations:** delta (@delta727)
-- **RL Operations Director:** Lack (@lackkkk)
+- **RL Operations Director:** Lack (@Lackkkk)
+- **RL Operations Coordinators:**
+    - **Communications:** Peyton (@peyton_.)
+    - **Competitive Integrity:** Flump (@flumpski)
+    - **Competitive Integrity:** Manatee (@manatee)
+    - **NCPs:** Pas818 (@pas818)
+    - **Processing:** Vacant
+    - **Waivers:** AndyMcMuffin (@andymcmuffin)
+
+- **RL Operations Advisors:**
+    - Adi (@asapre)
+    - Achilles (@_achilles__)
+    - Nim (@nim.x)
+    - Kend0 (@kend0slice)
+
+### League Operations
+
+- **Competitive Integrity Coordinator:** Flump (@flumpski)
+- **Competitive Integrity Coordinator:** Manatee (@manatee)
+- **Competitive Integrity Team Lead:** uwuwMLEnjoyer (@wyntahfox)
+- **Competitive Integrity Team Lead:** EthsFox (@ethu_)
+- **Competitive Integrity Team:**
+    - Crazy (@crazylegs10)
+    - MikeIsMyIke (@mikeismyike)
+    - John McVegan (@johnmcvegan)
+    - QubeKnight (@qubeknight)
+    - Darkk (@_darkk_)
+    - Rolo (@rolojohnson)
+- **NCPs Coordinator:** Pas818 (@pas818)
+- **NCPs Team Lead:** Vacant
+- **NCPs Team:**
+    - Hermod (@.hermod.)
+    - Kurrazo (@kurrazo)
+    - Yz (@yz220)
+    - Vacant
+- **Processing Coordinator:** Vacant
+- **Processing Team Lead:** Vacant
+- **Processing Team:**
+    - Half Past White (@halfpastwhite)
+    - Lack (@lackkkk)
+    - BattleBennyB (@battlebennyb)
+    - T E X (@texascyclone)
+    - BigQ (@biggq)
+    - Aydxn (@aydxn_0907)
+- **Waivers Coordinator:** AndyMcMuffin (@andymcmuffin)
+- **Waivers Team Lead:** Onyx (@onyx076)
+- **Waivers Team:**
+    - Rikr (@rvx.rikr_)
+    - Moose (@itzmooserl)
 
 ## League Operations (TM)
 
@@ -216,6 +263,53 @@ For opportunities to get involved with TM League Operations, head to the Trackma
 Marketing is responsible for external communications, including advertising, social media, and website content and development, as well as official league merchandising. Marketing also oversees the sponsorship team who builds relationships with companies and external organizations, with the goal of securing sponsors for giveaways and financial donations to the league.
 
 For open opportunities to get involved with the Marketing, see ⁠marketing-forms.
+
+#### Leadership
+
+- **Head of Marketing:** han1ckz (@han1ckz)
+- **Marketing Director:** xskyguy17x (@xskyguy17x)
+- **Marketing Advisors:**
+    - raspberries (@raspberries)
+    - rolojohnson (@rolojohnson)
+- **Marketing Coordinator:** crazylegs10 (@crazylegs10)
+- **Marketing Team Lead:** iamalyssabee (@iamalyssabee)
+- **Esports Communications Coordinators:**
+    - kkube (@kkube)
+    - xsnipz21x (@xsnipz21x)
+- **Media Marketing Coordinator:** flappecino (@flappecino)
+
+#### Social Media
+- **Social Media Team Lead:** flappecino (@flappecino)
+- **Social Media Team:**
+    - starb0yd (@starb0yd) — Caption Writer
+    - thedarkhero77 (@thedarkhero77) — Caption Writer
+    - bgriiff (@bgriiff) — Trend Watcher
+    - xsnipz21x (@xsnipz21x) — TikTok
+
+#### Video Editing
+- **Video Editing Team:**
+    - zracii (@zracii) — Editor
+    - erehereh (@erehereh) — Editor
+
+#### Sponsorship
+- **Sponsorship Team Lead:** *Vacant*
+- **Sponsorship Team:**
+    - pander_rl (@pander_rl) — Sponsorship Agent
+    - Coley (@coley) — Pitch Deck Assistant
+    - yz220 (@yz220) — Sponsor Researcher
+
+#### Merchandising
+- **Merch Team Lead:** tunloink (@tunloink)
+- **Merch Team:**
+    - leighanicole_ (@leighanicole_) — Mockup Designer
+    - *Vacant* — Mockup Designer
+    - *Vacant* — Store Assistant
+
+#### Web & Digital
+- **Website Dev Coordinator:** mallowsc (@mallowsc) *(Development Dept)*
+- **Website Content Team Lead:** *Vacant*
+- **Web Content Team:**
+    - *Vacant* — Content Contributor
 
 ## Production
 
