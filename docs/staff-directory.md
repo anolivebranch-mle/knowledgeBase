@@ -59,17 +59,23 @@ Teams under Community include Moderation, Admissions, Events, and User Experienc
 
 ### Admissions
 
-- **Community Coordinator - Admissions (RL):** xSnipz21x (@xsnipz21x)
-- **Community Coordinator - Admissions (TM):** Yz (@yz220)
-- **Admissions Team Lead:** ElCuchinero Cuh (@elcuchinero)
-- **Admissions Team (RL):**
+#### Rocket League
+
+- **RL Admissions Coordinator:** xSnipz21x (@xsnipz21x)
+- **RL Admissions Team Lead:** ElCuchinero Cuh (@elcuchinero)
+- **RL Admissions Team:**
     - Ant (@anthill)
     - Eth (@ethu_)
     - Guardsmen (@guardsmen_.)
     - HiChew (@hichew.rl)
     - jgarrett770 (@jgarrett779)
     - MapleSyrup (@maplesyrup.__.)
-- **Admissions Team (TM):**
+
+#### Trackmania
+
+- **TM Admissions Coordinator:** Yz (@yz220)
+- **TM Admissions Team Lead:** *Vacant*
+- **TM Admissions Team:**
     - 16BitZak (@zackthewarrior)
     - Ant (@anthill)
     - malia (@rrecoil00)
@@ -80,9 +86,9 @@ Teams under Community include Moderation, Admissions, Events, and User Experienc
 
 ### Moderation
 
-- **Community Coordinator - Moderation:** Pieman_RL (@pieman_rl)
+- **Moderation Coordinator:** Pieman_RL (@pieman_rl)
 - **Moderation Team Lead:** AlyssaBee (@iamalyssabee)
-- **Moderation Team Members:**
+- **Moderation Team:**
     - Amber (@theelastictuba)
     - Atherolite (@atherolite)
     - Connor (@c0nn0r_20)
@@ -139,33 +145,48 @@ For opportunities to get involved with TM League Operations, head to the Trackma
 - **Trackmania Board:** Leachy (@leachy)
 - **Trackmania Director:** Ant (@anthill)
 - **Trackmania Coordinators:**
-    - **League Play:** okboomer (@okboomer0998)
     - **Competitive Integrity:** uwuMLEnjoyer (@wyntahfox)
-    - **Waivers:** *Vacant*
+    - **League Play:** okboomer (@okboomer0998)
     - **NCPs:** *Vacant*
     - **Processing:** *Vacant*
+    - **Waivers:** *Vacant*
+- **Trackmania Advisor:** Zyta (@zytabyte)
     
-### League Play
-
-- *TBD*
-
 ### Competitive Integrity
 
-- **Team Lead:** 16BitZak (@16bitzak)
-- NLBS (@nlbs) 
-- Darkk (@darkk)
+- **Competitive Integrity Coordinator:** uwuMLEnjoyer (@wyntahfox)
+- **Competitive Integrity Team Lead:** 16BitZak (@16bitzak)
+- **Competitive Integrity Team:**
+    - NLBS (@nlbs) 
+    - Darkk (@darkk)
 
-### Waivers
+### League Play
 
-- *TBD*
+- **League Play Coordinator:** okboomer (@okboomer0998)
+- **League Play Team Lead:** *Vacant*
+- **League Play Team:**
+    - *TBD*
 
 ### NCPs
 
-- *TBD*
+- **NCPs Coordinator:** *Vacant*
+- **NCPs Team Lead:** *Vacant*
+- **NCPs Team:**
+    - *TBD*
 
 ### Processing
 
-- ElCuchinero Cuh (@elcuchinero)
+- **Processing Coordinator:** *Vacant*
+- **Processing Team Lead:** *Vacant*
+- **Processing Team:**
+    - ElCuchinero Cuh (@elcuchinero)
+
+### Waivers
+
+- **Waivers Coordinator:** *Vacant*
+- **Waivers Team Lead:** *Vacant*
+- **Waivers Team:**
+    - *TBD*
 
 ## Marketing
 
