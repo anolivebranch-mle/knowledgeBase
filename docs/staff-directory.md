@@ -265,3 +265,7 @@ Legacy members of the Hall of Fame were inducted prior to the revival of the Hal
 - Water
 - Wray
 - Zyta
+
+## Making Updates
+
+With the move to Knowledge Base, the process of staff leaders making updates to the directory has changed. Directory updates no longer need to flow through an intermediary spreadsheet and be reviewed and executed by the user experience team (or in practice, specifically Olive). Follow the [how to contribute](index#how-to-contribute) instructions for updating knowledge base. This allows anyone to make direct updates to the directory (with a peer review/approval by staff before it goes live of course).
