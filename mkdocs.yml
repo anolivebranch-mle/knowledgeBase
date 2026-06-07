@@ -17,7 +17,9 @@ nav:
       - Departments:
         - Admissions: departments/community/admissions/admissions.md
         - Events: departments/community/events/events.md
-        - Moderation: departments/community/moderation/moderation.md
+        - Moderation: 
+          - Overview: departments/community/moderation/moderation.md
+          - Processing: departments/community/moderation/processing.md
         - User Experience: departments/community/user-experience/user-experience.md
     - Development:
       - Overview: departments/development/development.md
