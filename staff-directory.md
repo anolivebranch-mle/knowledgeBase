@@ -24,6 +24,7 @@ This page is intended to be the single source of truth for MLE staff members. Wh
 
 ### Moderation
 
+- **Community Coordinator - Moderation:** Pieman_RL (@pieman_rl)
 - **Moderation Team Lead:** AlyssaBee (@iamalyssabee)
 - **Moderation Team Members:**
     - Amber (@theelastictuba)
