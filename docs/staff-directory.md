@@ -179,13 +179,6 @@ For opportunities to get involved with TM League Operations, head to the Trackma
     - **Waivers:** *Vacant*
 - **TM Operations Advisors:** 
     - Zyta (@zytabyte)
-    
-### League Operations
-
-- **League Operations Coordinator:** okboomer (@okboomer0998)
-- **League Operations Team Lead:** *Vacant*
-- **League Operations Team:**
-    - *TBD*
 
 ### Competitive Integrity
 
