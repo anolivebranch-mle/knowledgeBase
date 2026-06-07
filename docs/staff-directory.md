@@ -165,7 +165,7 @@ They are also in charge of aiding franchises / players on game days, and act as 
     - **Competitive Integrity:** Flump (@flumpski)
     - **Competitive Integrity:** Manatee (@manatee)
     - **NCPs:** Pas818 (@pas818)
-    - **Processing:** Vacant
+    - **Processing:** *Vacant*
     - **Waivers:** AndyMcMuffin (@andymcmuffin)
 - **RL Operations Advisors:**
     - Adi (@asapre)
@@ -190,17 +190,16 @@ They are also in charge of aiding franchises / players on game days, and act as 
 ### NCPs
 
 - **NCPs Coordinator:** Pas818 (@pas818)
-- **NCPs Team Lead:** Vacant
+- **NCPs Team Lead:** *Vacant*
 - **NCPs Team:**
     - Hermod (@.hermod.)
     - Kurrazo (@kurrazo)
     - Yz (@yz220)
-    - Vacant
 
 ### Processing
 
-- **Processing Coordinator:** Vacant
-- **Processing Team Lead:** Vacant
+- **Processing Coordinator:** *Vacant*
+- **Processing Team Lead:** *Vacant*
 - **Processing Team:**
     - Half Past White (@halfpastwhite)
     - Lack (@lackkkk)
@@ -333,6 +332,11 @@ This includes the Twitch streams, overlays, video edits, and all graphic design 
 Production also is responsible for our Open Net streams, as well as power rankings, which are released during Open Net.
 
 For open opportunities to get involved with Production, see ⁠production-forms.
+
+### Leadership
+
+- **Head of Production:** pandy (@flashpandy)
+- **Production Director:** Half Past White (@halfpastwhite)
 
 ## Hall of Fame
 
