@@ -47,6 +47,8 @@ Community also coordinates receiving and processing community feedback, to distr
 
 Teams under Community include Moderation, Admissions, Events, and User Experience.
 
+### Leadership
+
 - **Head of Community:** AnOliveBranch (@anolivebranch)
 - **Community Director:** thepiggybuggy (@thepiggybuggy)
 - **Community Coordinators:**
@@ -150,6 +152,11 @@ League Operations is responsible for administration of Minor League Esports' com
 This includes series scheduling, salary tracking, roster moves, rule interpretations, and anything else relevant to the MLE competitive environment.
 They are also in charge of aiding franchises / players on game days, and act as the arbitrator of disputes and issues that arise related to competing in MLE.
 
+### Leadership
+
+- **Head of RL Operations:** delta (@delta727)
+- **RL Operations Director:** Lack (@lackkkk)
+
 ## League Operations (TM)
 
 ![LO Banner](img/directory/League%20Operations.png)
@@ -160,16 +167,26 @@ They are also in charge of aiding franchises / players on game days, and act as 
 
 For opportunities to get involved with TM League Operations, head to the Trackmania server!
 
-- **Trackmania Board:** Leachy (@leachy)
-- **Trackmania Director:** Ant (@anthill)
-- **Trackmania Coordinators:**
+### Leadership
+
+- **Head of TM Operations:** Leachy (@leachy)
+- **TM Operations Director:** Ant (@anthill)
+- **TM Operations Coordinators:**
+    - **League Operations:** okboomer (@okboomer0998)
     - **Competitive Integrity:** uwuMLEnjoyer (@wyntahfox)
-    - **League Play:** okboomer (@okboomer0998)
     - **NCPs:** *Vacant*
     - **Processing:** *Vacant*
     - **Waivers:** *Vacant*
-- **Trackmania Advisor:** Zyta (@zytabyte)
+- **TM Operations Advisors:** 
+    - Zyta (@zytabyte)
     
+### League Operations
+
+- **League Operations Coordinator:** okboomer (@okboomer0998)
+- **League Operations Team Lead:** *Vacant*
+- **League Operations Team:**
+    - *TBD*
+
 ### Competitive Integrity
 
 - **Competitive Integrity Coordinator:** uwuMLEnjoyer (@wyntahfox)
@@ -177,13 +194,6 @@ For opportunities to get involved with TM League Operations, head to the Trackma
 - **Competitive Integrity Team:**
     - NLBS (@nlbs) 
     - Darkk (@darkk)
-
-### League Play
-
-- **League Play Coordinator:** okboomer (@okboomer0998)
-- **League Play Team Lead:** *Vacant*
-- **League Play Team:**
-    - *TBD*
 
 ### NCPs
 
