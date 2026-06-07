@@ -136,6 +136,28 @@ They are also in charge of aiding franchises / players on game days, and act as 
 
 For opportunities to get involved with TM League Operations, head to the Trackmania server!
 
+- **Trackmania Board:** Leachy (@leachy)
+- **Trackmania Director:** Ant (@anthill)
+- **Trackmania Coordinators:**
+    - **League Play:** okboomer (@okboomer0998)
+    - **Competitive Integrity Committee:** uwuMLEnjoyer (@wyntahfox)
+    - **Waivers:** *Vacant*
+    - **NCPs:** *Vacant*
+    - **Processing:** *Vacant*
+    
+- **League Play**:
+    - *TBD*
+- **Waivers:** 
+    - *TBD*
+- **NCPs:** 
+    - *TBD*
+- **Processing:** 
+    - ElCuchinero Cuh (@elcuchinero)
+- **Competitive Integrity Committee:**
+    - **Team Lead:** 16BitZak (@16bitzak)
+    - NLBS (@nlbs) 
+    - Darkk (@darkk)
+
 ## Marketing
 
 ![Marketing banner](img/directory/Marketing.png)
