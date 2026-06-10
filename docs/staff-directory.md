@@ -89,16 +89,21 @@ Teams under Community include Moderation, Admissions, Events, and User Experienc
 #### Rocket League
 
 - **RL Events Coordinator:** xenn (@xenn._.)
-- **RL Events Team Lead:**
+- **RL Events Team Lead:** Shark (@lshark.)
 - **RL Events Team:**
-    - *TBD*
+    - 999gav (@999gav)
+    - Insert_e (@insert_e)
+    - A BC (@bigcountry87)
+    - Chawie (@chaw1e)
 
 #### Trackmania
 
 - **TM Events Coordinator:** JonCornDog (@joncorndog)
-- **TM Events Team Lead:**
+- **TM Events Team Lead:** *Vacant*
 - **TM Events Team:**
-    - *TBD*
+    - Devils1028 (@devils1028)
+    - Darkk (@Darkk)
+    - 16BitZak (@16BitZak)
 
 ### Moderation
 
